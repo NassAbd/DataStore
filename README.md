@@ -2,6 +2,8 @@
 
 Source du dataset : [Sample Superstore Sales](https://hackernoon.com/13-best-datasets-for-power-bi-practice)
 
+## Objectif
+
 Le projet d'analyse des ventes de Sample Superstore vise à visualiser et analyser les données de ventes d'une entreprise de vente au détail fictive. Le jeu de données comprend des informations détaillées sur les commandes, les clients, les produits et les bénéfices. Cette analyse permet de comprendre les performances des ventes à travers différentes régions, segments de clients, catégories de produits et périodes.
 
 
@@ -13,7 +15,7 @@ Le jeu de données utilisé pour cette analyse comprend les variables suivantes 
     - Customer ID : Un identifiant unique pour chaque client.
     - Order Date : La date à laquelle la commande a été passée.
     - Ship Date : La date à laquelle la commande a été expédiée.
-    - Ship Mode : Le mode d'expédition de la commande (par exemple, standard, jour même).
+    - Ship Mode : Le mode d'expédition de la commande.
     - Segment : Le segment de client (par exemple, Consommateur, Entreprise, Bureau à domicile).
     - Region : La région où le client est situé (par exemple, Ouest, Centre, Est).
     - Category : La catégorie du produit acheté (par exemple, Mobilier, Technologie, Fournitures de bureau).
