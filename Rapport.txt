@@ -1,6 +1,0 @@
-1 - Analyse Exploratoire des Données
-
-	- Distribution des Ventes et des Profits 
-
-    Créez des visualisations pour voir la répartition des ventes et des profits par région, segment, catégorie et sous-catégorie.
-    Utilisez des histogrammes, des boîtes à moustaches (box plots) et des graphiques à barres.
