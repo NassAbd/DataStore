@@ -1,4 +1,4 @@
-# Analyse des Ventes de Sample Superstore
+# Analyse des Ventes de Sample Superstore (Power BI)
 
 Source du dataset : [Sample Superstore Sales](https://hackernoon.com/13-best-datasets-for-power-bi-practice)
 
